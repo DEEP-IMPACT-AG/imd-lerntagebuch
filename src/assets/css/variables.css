@@ -1,7 +1,9 @@
 :root {
 	--primary-color: #065A5B;
-	--red: var(--primary-color);
-	--orange: #FFC371;
+	--green: var(--primary-color);
+	--secondary-color: #ff6600;
+	--primary-color-darker: #043a3b;
+	--primary-color-brighter: #0a7e80;
 	--brown: #4D4444;
 	--pink: #FDADAB;
 	--black: #4A4A4A;
