@@ -3,6 +3,10 @@ h1 {
     font-size: 40pt;
 }
 
+h3 {
+    line-height: 2.5;
+}
+
 a {
     color: var(--primary-color);
     transition: 0.5s;
@@ -16,4 +20,9 @@ a:hover {
 a:visited {
     color: var(--primary-color);
     transition: 0.5s;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 13pt;
 }
